@@ -29,12 +29,11 @@ To be updated later
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
+To be updated later
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+To be updated later
 
 ## Versioning
 
@@ -53,8 +52,8 @@ See also the list of [contributors](https://github.com/techxpert1999/project_pre
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU Public License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-...
+To be updated later
