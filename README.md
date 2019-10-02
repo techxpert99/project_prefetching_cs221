@@ -4,31 +4,27 @@ CSN 221 : Comparison between Sofware and Hardware Cache Prefetching Schemes
 
 ## Getting Started
 
-...
+To be updated later
 
 ## Prerequisites
 
-```
+To be updated later
 
 ## Running the tests
 
-...
+To be updated later
 
 ## Break down into end to end tests
 
 Explain what these tests test and why
-
-```
 Give an example
-```
+To be updated later
 
 ## And coding style tests
 
 Explain what these tests test and why
-
-```
 Give an example
-```
+To be updated later
 
 ## Deployment
 
