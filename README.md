@@ -1,4 +1,4 @@
-# Project Title
+# Cache Prefetching Schemes
 
 CSN 221 : Comparison between Sofware and Hardware Cache Prefetching Schemes
 
@@ -6,7 +6,7 @@ CSN 221 : Comparison between Sofware and Hardware Cache Prefetching Schemes
 
 ...
 
-### Prerequisites
+## Prerequisites
 
 ```
 
@@ -14,7 +14,7 @@ CSN 221 : Comparison between Sofware and Hardware Cache Prefetching Schemes
 
 ...
 
-### Break down into end to end tests
+## Break down into end to end tests
 
 Explain what these tests test and why
 
@@ -22,7 +22,7 @@ Explain what these tests test and why
 Give an example
 ```
 
-### And coding style tests
+## And coding style tests
 
 Explain what these tests test and why
 
