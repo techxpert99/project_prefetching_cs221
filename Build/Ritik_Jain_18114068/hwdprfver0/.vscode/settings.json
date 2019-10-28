@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Cache.C": "cpp",
+        "prefetcher.C": "cpp"
+    }
+}
