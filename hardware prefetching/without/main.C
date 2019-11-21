@@ -1,11 +1,3 @@
-/*
- *
- * File: main.C
- * Author: Saturnino Garcia (sat@cs)
- * Description: Cache simulator for 2 level cache
- *
- */
-
 #include "cache.h"
 #include "CPU.h"
 #include "mem-sim.h"

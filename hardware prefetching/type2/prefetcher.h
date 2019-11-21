@@ -1,8 +1,3 @@
-/**
- * Name:  Yunqi Zhang
- * PID:   A53030068
- * Email: yqzhang@ucsd.edu
- */
 
 #ifndef PREFETCHER_H
 #define PREFETCHER_H

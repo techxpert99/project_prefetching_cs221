@@ -1,9 +1,3 @@
-/**
- * Name:  Yunqi Zhang
- * PID:   A53030068
- * Email: yqzhang@ucsd.edu
- */
-
 #include "prefetcher.h"
 #include "mem-sim.h"
 
